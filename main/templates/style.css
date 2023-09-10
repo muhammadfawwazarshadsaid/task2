@@ -1,0 +1,12 @@
+*{
+    font-family: Poppins;
+    padding-left: 120;
+    padding-right: 120;
+    padding-top: 40;
+    padding-bottom: 40;
+}
+
+div > header{
+    font-weight: 700;
+    font-size: 64;
+}
